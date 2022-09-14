@@ -32,7 +32,7 @@ Fernands</a></h1>
 
 <h3>STATISTIC</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxrnands&layout=default&theme=gotham&hide=html&hide_border=true&card_width=320" alt="fxrnands" /></p>
-<img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=fxrnands&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="fxrnands" />
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=fxrnands&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="fxrnands" />
 
 
 
