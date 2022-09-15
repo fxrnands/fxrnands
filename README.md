@@ -49,13 +49,18 @@ Fernands</a></h1>
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxrnands&layout=default&theme=gotham&hide=html&hide_border=true&card_width=320" alt="fxrnands" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fxrnands&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=fxrnands&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxrnands&theme=react&layout=compact" />
+</p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+------
+
+[Fernands](https://github.com/fxrnands)
+
+Last Edited on: 09/15/2022
 
 
 
