@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://instagram.com/fxrnxnds/" target="blank">
 Fernands</a></h1>
-<h3 align="center">I am Fullstack Developer</h3>
 <p margin-top:"40px" align="center"> <img src="https://komarev.com/ghpvc/?username=fxrnands" alt="fxrnands" /> </p>
 <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fxrnands/">
