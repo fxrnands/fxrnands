@@ -23,8 +23,6 @@ Fernands</a></h1>
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxrnands&theme=react&layout=compact" />
 </p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
 ------
 
 [Fernands](https://github.com/fxrnands)
