@@ -1,16 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://instagram.com/fxrnxnds/" target="blank">
-Fernands</a></h1>
-<p margin-top:"40px" align="center"> <img src="https://komarev.com/ghpvc/?username=fxrnands" alt="fxrnands" /> </p>
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fxrnands/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/fxrnands">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/fxrnxnds">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/fxrnands">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-      </div>
+<h1 align="center">Hi, I'm <a href="https://instagram.com/fxrnxnds/" target="blank">
+Fernanda 👋</a></h1>
 
 <h3 align="center"> ABOUT ME </h3>
 <p align="center">👀 I’m interested in JavaScript language.</p>
@@ -22,7 +11,17 @@ Fernands</a></h1>
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=fxrnands&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxrnands&theme=react&layout=compact" />
 </p>
-
+<p margin-top:"40px" align="center"> <img src="https://komarev.com/ghpvc/?username=fxrnands" alt="fxrnands" /> </p>
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fxrnands/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/fxrnands">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/fxrnxnds">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/fxrnands">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+      </div>
 ------
 
 [Fernands](https://github.com/fxrnands)
