@@ -3,7 +3,6 @@ Fernanda 👋</a></h1>
 
 <h3 align="center"> ABOUT ME </h3>
 <p align="center">👀 I’m interested in JavaScript language.</p>
-<p align="center">🌱 I’m currently learning at PT.Dumbways Indonesia</p>
 <p align="center">📫 Interested to collaborate? Email me : fxrnands@gmail.com</p>
 
   
