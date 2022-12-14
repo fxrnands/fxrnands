@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://instagram.com/fxrnxnds/" target="blank">
 Fernanda 👋</a></h1>
 
-<h3 align="center"> ABOUT ME </h3>
-<p align="center">👀 I’m interested in JavaScript language.</p>
 <p align="center">📫 Interested to collaborate? Email me : fxrnands@gmail.com</p>
 
   
