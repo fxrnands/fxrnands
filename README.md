@@ -72,6 +72,26 @@ Frontend & Mobile Developer — Focused on clean architecture, performance, and 
 
 ---
 
+## ⭐ Featured Projects
+
+### 🔹 Mindsetlab Creative
+**Website:** https://mindsetlab.id/
+
+Mindsetlab Creative is a digital agency website built to showcase portfolio work and support marketing initiatives. It highlights selected projects, services, and creative capabilities in branding, web development, and digital strategy — designed to attract potential clients and collaboration opportunities.
+
+### 🔹 KISUM App
+**Website:** https://app.kisum.io/signin
+
+KISUM is a B2B SaaS platform that connects event promoters with artist agencies, streamlining collaboration, booking, and management processes. It helps both sides operate more efficiently through centralized tools and real-time coordination.
+
+### 🔹 BRI x FC Barcelona
+**Website:** https://debit-bri-barcelona.vercel.app/id
+
+A marketing landing page created for the collaboration between Bank Rakyat Indonesia and FC Barcelona. The site promotes the co-branded debit card, highlights key benefits, and supports campaign awareness for football fans and BRI customers.
+
+
+---
+
 ### 🔥 Activity & Contributions
 
 <p align="left">
