@@ -83,7 +83,12 @@ Frontend & Mobile Developer — Focused on clean architecture, performance, and 
 ### 🔥 Activity & Contributions
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=fxrnands&theme=radical&border_radius=8" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=fxrnands&theme=radical&border_radius=8"
+    alt="GitHub Streak Alternative"
+  />
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxrnands&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
