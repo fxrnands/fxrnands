@@ -1,8 +1,105 @@
-<h1 align="center">Hi, I'm <a href="https://instagram.com/fxrnxnds/" target="blank">
-Fernanda 👋</a></h1>
+<h1 align="center">Hi, I'm <a href="https://instagram.com/fxrnxnds/" target="_blank">Fernanda 👋</a></h1>
+
+<p align="center">
+Frontend & Mobile Developer — Focused on clean architecture, performance, and great UX
+</p>
+
+---
+
+### 🚀 Connect with me
+
+<p align="left">
+<a href="mailto:fxrnands@gmail.com"><img src="https://img.shields.io/badge/Email-fxrnands%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+<br/>
+<a href="https://www.linkedin.com/in/fxrnands/"><img src="https://img.shields.io/badge/LinkedIn-Fernanda-blue?style=for-the-badge&logo=linkedin" /></a>
+<br/>
+<a href="https://fernands.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fernands.vercel.app-black?style=for-the-badge&logo=vercel" /></a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- Passionate about building responsive, fast, and scalable apps  
+- Strong focus on **performance, accessibility, and SEO**  
+- Enjoy animations and micro-interaction driven UI  
+- Always improving daily through shipping and learning  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui" />
+</p>
+
+### 📱 Mobile Development
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" />
+</p>
+
+### 🎞️ Animation & Interaction
+<p>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock" />
+</p>
+
+### 🧭 3D & Web3
+<p>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js" />
+<img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js" />
+<img src="https://img.shields.io/badge/Ethers.js-2536EB?style=for-the-badge&logo=ethereum" />
+</p>
+
+### 🗄️ Backend & Database
+<p>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
+</p>
+
+### 🧰 Tools & Design
+<p>
+<img src="https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=fxrnands&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 🔥 Activity & Contributions
+
+<p align="left">
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=fxrnands&theme=radical&border_radius=8" />
+</p>
+
+<p align="left">
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxrnands&layout=compact&theme=radical" />
+</p>
+
+<p align="left">
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=fxrnands&style=for-the-badge" />
+</p>
 
 
-<p align="center">📫 Interested to collaborate? Email me : fxrnands@gmail.com</p>
+⭐️ Feel free to contact me, open issues, or reach out for collaboration
+
 
 
 
