@@ -75,7 +75,7 @@ Frontend & Mobile Developer — Focused on clean architecture, performance, and 
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=fxrnands&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fxrnands&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Frontend & Mobile Developer — Focused on clean architecture, performance, and 
   />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxrnands&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fxrnands&layout=compact&theme=radical" />
 </p>
 
 <p align="left">
