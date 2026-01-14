@@ -92,9 +92,11 @@ Frontend & Mobile Developer — Focused on clean architecture, performance, and 
 <img src="https://komarev.com/ghpvc/?username=fxrnands&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ArLxZ4PebH2M0/giphy.gif" width="260" alt="anime waving" />
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBsdHE5bjN2czFvZ2U3cmU4eHRnMTlleWw0c3JjNzliMGY0ajZoeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a6pzK009rlCak/giphy.gif" width="260" alt="anime waving" />
 </p>
+
+
 
 ⭐️ Feel free to contact me, open issues, or reach out for collaboration
 
