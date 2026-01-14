@@ -72,14 +72,6 @@ Frontend & Mobile Developer — Focused on clean architecture, performance, and 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fxrnands&show_icons=true&theme=radical" />
-</p>
-
----
-
 ### 🔥 Activity & Contributions
 
 <p align="left">
@@ -89,8 +81,11 @@ Frontend & Mobile Developer — Focused on clean architecture, performance, and 
   />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fxrnands&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/Code-Open%20Source-blue" />
 </p>
+
 
 <p align="left">
 <!-- Profile Views -->
