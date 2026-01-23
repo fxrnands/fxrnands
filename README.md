@@ -84,7 +84,7 @@ Mindsetlab Creative is a digital agency website built to showcase portfolio work
 
 KISUM is a B2B SaaS platform that connects event promoters with artist agencies, streamlining collaboration, booking, and management processes. It helps both sides operate more efficiently through centralized tools and real-time coordination.
 
-### 🔹 BRI x FC Barcelona
+### 🔹 Debit BRI FC Barcelona
 **Website:** https://debit-bri-barcelona.vercel.app/id
 
 A marketing landing page created for the collaboration between Bank Rakyat Indonesia and FC Barcelona. The site promotes the co-branded debit card, highlights key benefits, and supports campaign awareness for football fans and BRI customers.
